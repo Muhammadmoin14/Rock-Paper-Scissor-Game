@@ -1,3 +1,4 @@
+#! usr/env/bin node
 import inquirer from "inquirer";
 import chalk from "chalk";
 let condition = true;
